@@ -1,0 +1,1 @@
+This public repository reflects the commits from a private repo: Georgia Tech IDCD site. www.design.gatech.edu (minus the actual code)
